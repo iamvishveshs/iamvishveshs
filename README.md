@@ -5,8 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishveshshivam" alt="vishveshshivam" /></a> </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nw0mphte9y1gz8p5zz7fhip2j&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nw0mphte9y1gz8p5zz7fhip2j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vishvesh482003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vishvesh482003" height="30" width="40" /></a>
