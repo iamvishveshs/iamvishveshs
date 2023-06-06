@@ -5,10 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishveshshivam" alt="vishveshshivam" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nw0mphte9y1gz8p5zz7fhip2j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vishvesh482003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vishvesh482003" height="30" width="40" /></a>
@@ -26,6 +24,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishveshshivam&show_icons=true&locale=en&layout=compact" alt="vishveshshivam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishveshshivam&show_icons=true&locale=en" alt="vishveshshivam" /></p>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishveshshivam&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+
+<br/>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishveshshivam&" alt="vishveshshivam" /></p>
