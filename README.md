@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Vishvesh Shivam! A newbie  web developer developer 👨‍💻 developing projects since 2022 🚀
   
 
-<a href="https://github.com/vishveshshivam" target="_blank">
+<a href="https://github.com/iamvishveshs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/vishvesh-shivam" target="_blank">
