@@ -1,34 +1,144 @@
-<h1 align="center">Hi 👋, I'm Vishvesh Shivam</h1>
-<h3 align="center">A passionate web developer from India</h3>
+## 👋 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvishveshs&label=Profile%20views&color=0e75b6&style=flat" alt="iamvishveshs" /> </p>
+Hi, I'm **Vishvesh Shivam**, a passionate **Full Stack Developer** based in **India** with **2+ years** of experience. <br/>I specialize in HTML, CSS, JS, PHP, MySQL.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvishveshs" alt="iamvishveshs" /></a> </p>
+## 📬 Contact
+<div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
+      <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png" width="20" height="20" />
+      <a href="mailto:vishvesh482003@gmail.com">vishvesh482003@gmail.com</a>
+    </span>
 
-<p align="left"> <a href="https://twitter.com/iamvishveshs" target="blank"><img src="https://img.shields.io/twitter/follow/iamvishveshs?logo=twitter&style=for-the-badge" alt="iamvishveshs" /></a> </p>
+<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="20" height="20" />
+      <a href="https://www.linkedin.com/in/iamvishveshs">LinkedIn</a>
+    </span>
 
-- 🔭 I’m currently working on **Blog Management Project**
+<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
+      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="20" height="20" />
+      <a href="https://github.com/iamvishveshs">GitHub</a>
+    </span>
 
-- 🌱 I’m currently learning **JavaScript**
+<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
+      <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" width="20" height="20" />
+      <a href="https://x.com/imvishveshs">X.com</a>
+    </span>
 
-- 💬 Ask me about **PHP,HTML,CSS**
+<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
+      <img src="https://cdn-icons-png.flaticon.com/128/10453/10453141.png" width="20" height="20" />
+      <a href="https://thevshub.in">Website</a>
+    </span>
 
-- 📫 How to reach me **iamvishveshs@gmail.com**
+<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
+          <img src="https://cdn-icons-png.flaticon.com/128/4050/4050385.png" width="20" height="20" />
+          <a href="https://projects.thevshub.in">Projects</a>
+        </span>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/iamvishveshs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamvishveshs" height="30" width="40" /></a>
-<a href="https://twitter.com/iamvishveshs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvishveshs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamvishveshs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamvishveshs" height="30" width="40" /></a>
-<a href="https://fb.com/iamvishveshs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamvishveshs" height="30" width="40" /></a>
-<a href="https://instagram.com/iamvishveshs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamvishveshs" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🧠 Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvishveshs&show_icons=true&locale=en&layout=compact" alt="iamvishveshs" /></p>
+### Languages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishveshs&show_icons=true&locale=en" alt="iamvishveshs" /></p>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">JavaScript</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/python" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Python</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/cplusplus" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">C++</span>
+</span>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishveshs&" alt="iamvishveshs" /></p>
+### Frontend
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/react" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">React</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/jquery" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">jQuery</span>
+</span>
+
+### Backend
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/express" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Express</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/nestjs" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">NestJS</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/fastify" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Fastify</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/dotnet" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">ASP.NET</span>
+</span>
+
+### Databases
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/postgresql" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">PostgreSQL</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/mysql" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">MySQL</span>
+</span>
+
+### DevOps & Tools
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/git" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Git</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/github" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">GitHub</span>
+</span>
+
+## 📁 Projects
+
+### Online Admission System
+
+The Online Admission System is a web-based application designed to streamline and automate the process of student admissions for educational institutions.
+
+🔗 [GitHub Repo](https://github.com/iamvishveshs/online-admission-system.git)
+
+🚀 [Live Demo](http://projects.thevshub.in/oas/)
+
+### Monthly attendance tracker
+
+This project aims to assist polytechnic colleges in efficiently tracking and managing student attendance on a monthly basis. It provides an automated solution to generate attendance reports, ensuring that students' attendance is monitored and necessary actions can be taken for those with low attendance.
+
+🔗 [GitHub Repo](https://github.com/iamvishveshs/-Polytechnic-Monthly-Attendance-tracker.git)
+
+🚀 [Live Demo](http://projects.thevshub.in/ams/)
+
+### Griham
+
+Griham simplifies your search for accommodation and essential services. From accomodation listings to food , Gym and laundry, everything is a call away — designed for students and professionals.
+
+🔗 [GitHub Repo](https://github.com/iamvishveshs/Griham)
+
+🚀 [Live Demo](https://griham.thevshub.in/)
+
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamvishveshs&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvishveshs&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishveshs&layout=compact)
+
+## 🏷️ Badges
+
+[![GitHub Followers](https://img.shields.io/github/followers/iamvishveshs?label=Follow&style=social)](https://github.com/iamvishveshs) [![GitHub Stars](https://img.shields.io/github/stars/iamvishveshs?style=social)](https://github.com/iamvishveshs)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/iamvishveshs) [![Twitter Follow](https://img.shields.io/twitter/follow/iamvishveshs?style=social)](https://twitter.com/iamvishveshs)
+
