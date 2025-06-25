@@ -48,46 +48,12 @@ Hi, I'm **Vishvesh Shivam**, a passionate **Full Stack Developer** based in **In
   <span style="font-size:11px;display:block;margin-top:4px;">Python</span>
 </span>
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/cplusplus" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">C++</span>
-</span>
-
-### Frontend
-
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/react" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">React</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/jquery" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">jQuery</span>
-</span>
-
-### Backend
-
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/express" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Express</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/nestjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">NestJS</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/fastify" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Fastify</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/dotnet" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">ASP.NET</span>
+  <img src="https://cdn.simpleicons.org/php" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">PHP</span>
 </span>
 
 ### Databases
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/postgresql" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">PostgreSQL</span>
-</span>
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/mysql" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">MySQL</span>
@@ -140,5 +106,5 @@ Griham simplifies your search for accommodation and essential services. From acc
 
 ## 🏷️ Badges
 
-[![GitHub Followers](https://img.shields.io/github/followers/iamvishveshs?label=Follow&style=social)](https://github.com/iamvishveshs) [![GitHub Stars](https://img.shields.io/github/stars/iamvishveshs?style=social)](https://github.com/iamvishveshs)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/iamvishveshs) [![Twitter Follow](https://img.shields.io/twitter/follow/iamvishveshs?style=social)](https://twitter.com/iamvishveshs)
+[![GitHub Followers](https://img.shields.io/github/followers/iamvishveshs?label=Follow&style=social)](https://github.com/iamvishveshs) [![GitHub Stars](https://img.shields.io/github/stars/iamvishveshs?style=social)](https://github.com/iamvishveshs) [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=iamvishveshs&theme=flat)](https://github.com/iamvishveshs) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/iamvishveshs) [![Twitter Follow](https://img.shields.io/twitter/follow/iamvishveshs?style=social)](https://twitter.com/iamvishveshs)
 
